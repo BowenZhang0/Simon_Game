@@ -1,1 +1,4 @@
 Generate a new file from branch for practicing and testing only.
+
+
+This sentence is from the newBranch2
