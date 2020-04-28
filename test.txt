@@ -1,7 +1,12 @@
 Generate a new file from branch for practicing and testing only.
 
+<<<<<<< HEAD
 1. Testing lines
 
 Current file is modifies under master branch
 
 3. remaining lines
+=======
+
+This sentence is from the newBranch2
+>>>>>>> newBranch2
